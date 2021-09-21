@@ -1,4 +1,4 @@
-# Holidays-Animation
+# Holiday-Animation
 
 With the christamas and other being around the corner, I made a simple animation of a winter themed landscape!
 
