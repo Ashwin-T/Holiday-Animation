@@ -4,4 +4,6 @@ With the christamas and other being around the corner, I made a simple animation
 
 For a quick preview visit: https://youtu.be/8TLsBlZUzqE
 
-If you need help running my files locally it feel free to contact me: atalwalkar719@gmail.com or visit my website for more information on how to contact me.
+To run first have java installed on your local machine or clone in repl.it
+
+After navigate to desired directory and run `javac *.java` to compile followed by `java Runner` to launch.
